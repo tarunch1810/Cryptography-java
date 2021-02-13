@@ -1,4 +1,4 @@
-# Cryptography-java
+# Cryptography--> MONO ALPHABHETIC SUBSTITUTION AFFINE CIPHER-java
 The Alice-Bob model has been implemented using the concept of multi threading
 in Java where one thread represents Alice while the other thread represents Bob.
 The sending and receiving action of message can be performed by both Alice and
